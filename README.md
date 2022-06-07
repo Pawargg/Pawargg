@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pawargg
-- 👀 I’m interested in Technology and its Dily Aplications.
+- 👀 I’m interested in Technology and its Dily Applications.
 - 🌱 I’m currently learning Computer Science at University of Birmingham
 
 <!---
